@@ -11,7 +11,7 @@
 ```javascript
 const Andrew = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java, R],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, R],
   technologies: {
         frontEnd: {
             js: ["React", "Redux"],
@@ -24,7 +24,7 @@ const Andrew = {
         databases: ["MongoDB", "Mongoose.js", "MySQL", "Cassandra", "PostgreSQL"]
     },
   interests: ["Piano", "Hiking", "Cooking", "Weightlifting"],
-  exploring: ["Typescript", "GraphQL", "Firebase"]
+  exploring: ["GraphQL", "Firebase"]
 }
 ```
 
